@@ -1,0 +1,2 @@
+sss
+int mna()P
